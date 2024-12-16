@@ -8,4 +8,3 @@ Exploring DevOps and MLOps.
 
 * 🌍  I'm based in Bareilly,India
 * ✉️  You can contact me at [vickydxdy@gmail.com](mailto:vickydxdy@gmail.com)
-* 🧠  I'm learning Platform Engineering
